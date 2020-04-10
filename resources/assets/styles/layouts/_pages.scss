@@ -1,0 +1,20 @@
+.sample-page {
+  padding: 30px 0;
+
+  &__content {
+    text-align: center;
+
+    h1 {
+      margin: 0 0 30px;
+      font-size: 36px;
+      font-weight: 400;
+      color: #333;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.67;
+      color: #333;
+    }
+  }
+}
